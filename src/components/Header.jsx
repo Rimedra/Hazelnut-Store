@@ -50,8 +50,8 @@ export default function Header() {
       href: "#about",
     },
     {
-      label: "İletişim",
-      href: "#contact",
+      label: "SSS",
+      href: "#FAQ",
     },
 
   ];

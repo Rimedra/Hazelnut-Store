@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function FAQ() {
   return (
-<section id="sorular" className="bg-stone-100 py-20">
+<section id="FAQ" className="bg-stone-100 py-20">
       <div className="mx-auto px-4 max-w-4xl">
         <h2 className="text-3xl md:text-4xl font-bold text-center text-amber-800 mb-12">Sıkça Sorulan Sorular</h2>
         <div className="space-y-4" id="faqList">
