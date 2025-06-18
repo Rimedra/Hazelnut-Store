@@ -33,7 +33,7 @@ export default function ProductSection() {
     
      <section id="products" className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 lg:py-24">
       <div className="grid md:grid-cols-2 gap-12 items-center">
-        <img src="https://placehold.co/500x500?text=Ürün+Foto" alt="" className="rounded-3xl shadow-md" />
+        <img src="https://i.hizliresim.com/k973fs4.png" alt="" className="rounded-3xl shadow-md" />
 
         <div>
           <h2 className="text-3xl md:text-4xl font-bold text-amber-800 mb-4">Doğal Fındık</h2>

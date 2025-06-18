@@ -3,7 +3,7 @@ import { Link } from 'react-scroll';
 
 export default function Section1() {
   return (
-    <section id="section-1" className="relative py-10 overflow-visible" style={{backgroundImage: "url('https://i.ibb.co/PsLJ7JKc/background-big-line-our-history.png')"}}>
+    <section id="section-1" className="relative py-10 overflow-visible" style={{backgroundImage: "url('https://i.hizliresim.com/k8iogdc.png')"}}>
         <div  className=" grid md:grid-cols-2 gap-10 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 items-center justify-between" >
             <div className="px-4 sm:px-6 md:px-8 lg:px-10">
             <h1 className="text-4xl md:text-5xl font-extrabold text-amber-800 mb-6 leading-tight">
@@ -30,7 +30,7 @@ export default function Section1() {
 
             <div className="px-4 sm:px-6 md:px-8 lg:px-10">
             <img
-                src="https://i.ibb.co/p6DPrhwg/hearth-of-ferrero-intro-image-1.png"
+                src="https://i.hizliresim.com/pv7vra8.png"
                 alt="Fındık"
                 className="w-full"
             />
@@ -46,7 +46,7 @@ export default function Section1() {
                     <br/>
                     <span className="relative inline-flex w-1/2 h-16 pb-2 justify-center items-center text-white text-2xl text-center">
                         <img
-                            src="https://i.ibb.co/60Pjr16g/green-brush-bkg.png"
+                            src="https://i.hizliresim.com/2dx7h2h.png"
                             alt=""
                             className="absolute inset-0 w-full h-full object-contain z-1"
                         />
@@ -60,7 +60,7 @@ export default function Section1() {
                     <br/>
                     <span className="relative inline-flex w-1/2 h-16 pb-2 justify-center items-center text-white text-2xl text-center">
                         <img
-                            src="https://i.ibb.co/60Pjr16g/green-brush-bkg.png"
+                            src="https://i.hizliresim.com/2dx7h2h.png"
                             alt=""
                             className="absolute inset-0 w-full h-full object-contain z-1"
                         />
@@ -74,7 +74,7 @@ export default function Section1() {
                     <br/>
                     <span className="relative inline-flex w-1/2 h-16 pb-2 justify-center items-center text-white text-2xl text-center">
                         <img
-                            src="https://i.ibb.co/60Pjr16g/green-brush-bkg.png"
+                            src="https://i.hizliresim.com/2dx7h2h.png"
                             alt=""
                             className="absolute inset-0 w-full h-full object-contain z-1"
                         />
@@ -86,7 +86,7 @@ export default function Section1() {
             <div className='col-span-12 lg:col-span-7 px-4 sm:px-6 md:px-8 lg:px-10'>
                 <div className='flex flex-col lg:flex-row items-center text-left justify-center h-full'>
                     <div className='flex items-left text-left w-1/2 lg:w-1/4 px-2 mt-10 lg:mt-0'>
-                                        <img src="https://i.ibb.co/1Y39q1D5/nut-image.png" alt="" className=''/>
+                                        <img src="https://i.hizliresim.com/q1ihx19.png" alt="" className=''/>
 
                     </div>
                     <div className='flex flex-col items-left justify-center w-full lg:w-3/4 px-2'>

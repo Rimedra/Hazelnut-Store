@@ -5,7 +5,7 @@ export default function OurStory() {
 <section id="about" className="bg-white py-20">
       <div className='flex flex-row max-w-7xl px-4 sm:px-6 lg:px-8 mx-auto'>
         <div className=''>
-          <img src="https://i.ibb.co/yHJgmMd/Chat-GPT-Image-11-Haz-2025-16-36-01.png" alt="" />
+          <img src="https://i.hizliresim.com/h2vrk6y.png" alt="" />
         </div>
         <div className="m-auto px-4 text-center col-span-4">
         <h2 className="text-3xl md:text-4xl font-bold text-amber-800 mb-6">Bahçemizden Sofralarınıza — Hikayemiz</h2>
@@ -17,7 +17,7 @@ export default function OurStory() {
         </p>
       </div>
       <div className=''>
-          <img src="https://i.ibb.co/yHJgmMd/Chat-GPT-Image-11-Haz-2025-16-36-01.png" className='transform scale-x-[-1]' alt="" />
+          <img src="https://i.hizliresim.com/h2vrk6y.png" className='transform scale-x-[-1]' alt="" />
         </div>
       </div>
       

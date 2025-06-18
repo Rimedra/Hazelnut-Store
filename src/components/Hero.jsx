@@ -7,7 +7,7 @@ import { Link } from 'react-scroll';
         <section id="hero" className="relative py-10 overflow-hidden">
             <div className="absolute inset-0 z-0 ">
                 <img
-                  src="https://i.ibb.co/dN7Pbvx/hazelnut-hero.jpg"
+                  src="https://i.hizliresim.com/mji8q8s.jpg"
                   alt=""
                   className="w-full h-full object-cover"
                 />
@@ -32,7 +32,7 @@ import { Link } from 'react-scroll';
                     text-gray-100 text-xl lg:text-2xl font-bold py-3 px-8 text-shadow-lg shadow-lg
                     rounded-2xl transition-transform duration-300
                     transform hover:scale-105
-                    hover:bg-[url('https://i.ibb.co/0jkP1Fkt/Varl-k-2.png')]
+                    hover:bg-[url('https://i.hizliresim.com/ipxbb9d.png')]
                     bg-center bg-no-repeat bg-contain z-2 cursor-pointer"
                 >
                   <span className="mr-2">Satın Al</span>
